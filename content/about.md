@@ -1,11 +1,10 @@
 ---
 Title: About
-Description: This is my about page
+Description: This is my about page 
 ---
 
-About
+About me
 ==================
-
 På min webbplats använder jag Pico CMS för att enkelt skapa och hantera HTML-innehåll med hjälp av Markdown-språket.
 
 Mina mallar skapat via Twig. Detta ger mig möjlighet att fokusera på innehållet utan att behöva oroa mig för komplexa strukturer.
